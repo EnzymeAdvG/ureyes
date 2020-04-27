@@ -144,7 +144,7 @@ And finally execute node-red
 node-red -u ureyes
 ```
 
-This will open a browser page in the localhost:1880 by default where you will be able to see the flow.
+This will open a browser page in the localhost:1880 where you will be able to see the flow.
 
 In order to bring it to a productive scenario a couple more pieces of software are needed:
   - IBM Cloudant 
@@ -157,9 +157,9 @@ Once this products have been deployed you will need to update the flow.set infor
   - Whatsapp Acess Token & Channel
 
 In addition to that, many more IBM Services can be added to improve the app and expand its functionalities, such as:
-  - Watson Translator 
-  - Watson text to speech
-  - Watson Speech to text
+  - Language Translator 
+  - Text to Speech
+  - Speech to Text
   - IBM Cloud Storage
-  - IBM Cloud Function - adhoc dev.
+  - IBM Machine Learning
   - IBM Visual Insights

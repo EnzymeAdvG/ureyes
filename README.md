@@ -115,7 +115,11 @@ During the second phase of development, we aim to improve the user experience. F
 
 In order to install and test the project in your own machine you will need node-red installed. You can follow the [official documentation](https://nodered.org/docs/getting-started/local).
 
-Once installed you should clone the project in a directory of your choice, open a terminal and type:
+Once installed you should clone the project in a directory of your choice with:
+```
+git clone https://github.com/EnzymeAdvG/ureyes.git 
+```
+Open a terminal in this folder and type:
 
 ```
 cd ureyes

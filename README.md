@@ -84,7 +84,7 @@ During the second phase of development, we aim to improve the user experience. F
 - Enable voice interactions for target definition and app response. (we expect to include multiple languages)
 
 - Process video images in streaming and send feedback of focus and reached the target.
-- 
+
 **![](https://lh3.googleusercontent.com/6LFu6PnCURZC93uZm5IG7xQe6v42aS-kgt1jiduk0vVOioAcWamRCoMIrpMP0C3rF78S3eRVOMezSBjd1H1brDKhTjlEZ71Yo0tAHuXOxJPa1uoulgV-NKEFwNc8tHkFYjtlBga7)**
 
 ### Mockup 

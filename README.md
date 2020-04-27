@@ -110,3 +110,17 @@ During the second phase of development, we aim to improve the user experience. F
 *Ur´Eyes* shall be the reference solutions for helping visual impaired and blind people during coronavirus communication crisis
 
 ![](https://lh4.googleusercontent.com/G-qd7-wYPafGUS52pK5ciQpgz_CTXVh-wpOG2OlwvP0h5aOTL4w_FAf-YEVNWUaZmI2Be92sVyHcEcDcoGkLd7hdLY3wtaFnaiKLYFIyYaJZ5Bd60cBCuOoUIJurN__Ztd_iW1fb)
+
+## Installation guide
+
+In order to install and test the project in your own machine you will need node-red installed. You can follow the [official documentation](https://nodered.org/docs/getting-started/local).
+
+Once installed you should clone the project in a directory of your choice, open a terminal and type:
+
+```
+cd ureyes
+```
+Then install the required dependencies by typing:
+```
+npm install
+```

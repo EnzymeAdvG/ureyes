@@ -67,7 +67,7 @@ This MVP aims to prove the concept of the relevant components: Watson Assistant,
 In this case, user communication occurs via Whatsapp (interviews revealed that reading/chatting on mobile is a common feasible task for visual impaired people).
 
 
-**![](https://lh3.googleusercontent.com/-TXNYk61_tP0/XqcZQAIRXxI/AAAAAAAABJw/qySyEivQqnUhU3qRO-u-dPCGXSF6YqQdwCK8BGAsYHg/s0/2020-04-27.png)**
+**![](https://lh3.googleusercontent.com/-MNOl46ZhemY/Xqcd7rMFueI/AAAAAAAABKY/y1SXwi6Yd5onrhO13vav8_G5n8U6IqZLACK8BGAsYHg/s0/2020-04-27.png)**
 
 #### App architecture
 
@@ -82,13 +82,13 @@ During the second phase of development, we aim to improve the user experience. F
 Depending on the user experience and technology validation during agile development, we shall consider the option of passing some of the features from the cloud to the edge.
 
 
-**![](https://lh3.googleusercontent.com/-B_0h-bO9u5U/XqcaK8i5lEI/AAAAAAAABJ8/guPnNuulnAgmkrQDhAplq_5_0wMUYWF_gCK8BGAsYHg/s0/2020-04-27.png)**
+**![](https://lh3.googleusercontent.com/-3oUAyqOiWkg/Xqcdmc11JoI/AAAAAAAABKQ/XVJWJDP66_MNyHdmCQG80X34qbSGOYEIQCK8BGAsYHg/s0/2020-04-27.png)**
 
 During the last phase we shall introduce collaborative capabilities in the app so that contacts can help in case of not successful app assistance.
 
 This will serve as an annotation mechanism for future algorithm retraining.
 
-**![](https://lh3.googleusercontent.com/-FGlS7Y-jawg/XqcavDxeY6I/AAAAAAAABKE/BNuZpULBk6kIssEkmO0KUMqJcgrTZAkzQCK8BGAsYHg/s0/2020-04-27.png)**
+**![](https://lh3.googleusercontent.com/-NRYcgXNStX0/XqcefCJAoYI/AAAAAAAABKg/DpmENHV2Upgl5Ub_2eJM24y633MwayZrQCK8BGAsYHg/s0/2020-04-27.png)**
 ### Mockup 
 
 #### Expiration date detection use cases

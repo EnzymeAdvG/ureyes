@@ -143,6 +143,7 @@ In order to bring it to a productive scenario a couple more pieces of software a
   - IBM Cloudant 
   - Watson Assistant
   - Access to the Whatsapp Business API
+
 Once this products have been deployed you will need to update the flow.set information inside the "Configuration" Node with the following information:
   - IBM Cloudant credentials 
   - Watson Assistant credentials

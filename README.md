@@ -103,11 +103,11 @@ For instance:
     
 **Food product**
 
-**![](./img/conversation_screenshots/yogurt.png)![](./img/conversation_screenshots/chicken.png)![](./img/conversation_screenshots/chicken2.png)**
+**![](./img/wsp_screenshots/yogurt.png)![](./img/conversation_screenshots/chicken.png)![](./img/conversation_screenshots/chicken2.png)**
 
 **Prescription drugs**
 
-![](./img/conversation_screenshots/paracetamol.png)![](./img/conversation_screenshots/medicine2.png)![](./img/conversation_screenshots/medicine3.png)
+![](./img/wsp_screenshots/paracetamol.png)![](./img/conversation_screenshots/medicine2.png)![](./img/conversation_screenshots/medicine3.png)
 ### Claim  
 *Ur´Eyes* shall be the reference solutions for helping visual impaired and blind people during coronavirus communication crisis.
 

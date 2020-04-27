@@ -103,11 +103,11 @@ For instance:
     
 **Food product**
 
-**![](./img/wsp_screenshots/yogurt.png)![](./img/conversation_screenshots/chicken.png)![](./img/conversation_screenshots/chicken2.png)**
+**![](./img/wsp_screenshots/yogurt.png)![](./img/wsp_screenshots/chicken.png)![](./img/wsp_screenshots/chicken2.png)**
 
 **Prescription drugs**
 
-![](./img/wsp_screenshots/paracetamol.png)![](./img/conversation_screenshots/medicine2.png)![](./img/conversation_screenshots/medicine3.png)
+![](./img/wsp_screenshots/paracetamol.png)![](./img/wsp_screenshots/medicine2.png)![](./img/wsp_screenshots/medicine3.png)
 ### Claim  
 *Ur´Eyes* shall be the reference solutions for helping visual impaired and blind people during coronavirus communication crisis.
 
@@ -156,7 +156,7 @@ Once this products have been deployed you will need to update the flow.set infor
   - Watson Assistant credentials
   - Whatsapp Acess Token & Channel
 
-A lot more IBM Services can be added to expand its functionalities, for instance:
+In addition to that, many more IBM Services can be added to improve the app and expand its functionalities, such as:
   - Watson Translator 
   - Watson text to speech
   - Watson Speech to text

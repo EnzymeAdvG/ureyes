@@ -120,7 +120,7 @@ For instance:
 
 ## Installation guide
 
-In order to install and test the project in your own machine you will need node-red installed. You can follow the [official documentation](https://nodered.org/docs/getting-started/local).
+In order to download and test the project in your own machine you will need node-red installed. You can follow the [official documentation](https://nodered.org/docs/getting-started/local).
 
 Once installed you should clone the project in a directory of your choice with:
 ```

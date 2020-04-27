@@ -115,7 +115,11 @@ During the second phase of development, we aim to improve the user experience. F
 
 In order to install and test the project in your own machine you will need node-red installed. You can follow the [official documentation](https://nodered.org/docs/getting-started/local).
 
-Once installed you should clone the project in a directory of your choice, open a terminal and type:
+Once installed you should clone the project in a directory of your choice with:
+```
+git clone https://github.com/EnzymeAdvG/ureyes.git 
+```
+Open a terminal in this folder and type:
 
 ```
 cd ureyes
@@ -124,3 +128,23 @@ Then install the required dependencies by typing:
 ```
 npm install
 ```
+Go back to the original folder
+```
+cd ..
+```
+And finally execute node-red
+```
+node-red -u ureyes
+```
+
+This will open a browser page in the localhost:1880 by default where you will be able to see the flow.
+
+In order to bring it to a productive scenario a couple more pieces of software are needed:
+  - IBM Cloudant 
+  - Watson Assistant
+  - Access to the Whatsapp Business API
+
+Once this products have been deployed you will need to update the flow.set information inside the "Configuration" Node with the following information:
+  - IBM Cloudant credentials 
+  - Watson Assistant credentials
+  - Whatsapp Acess Token & Channel

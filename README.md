@@ -108,6 +108,8 @@ For instance:
 **Prescription drugs**
 
 ![](./img/wsp_screenshots/paracetamol.png)![](./img/wsp_screenshots/medicine2.png)![](./img/wsp_screenshots/medicine3.png)
+
+[Here](https://photos.google.com/share/AF1QipMrZ1bvJsKc9pXBrlYanMSzS1ZCriFNixZTyBI2gFwN2aHuRJvaycsYu0aBocsGIA/photo/AF1QipNcFIl-x4Nj2SIYQV1wAIqVV8RNUvV7z9cxOrc1?key=S2JOdmFLVi02dTJ4RllLMVdLRk1VYWlzYl9MSUdn) you can see the Chatbot in action.
 ### Claim  
 *Ur´Eyes* shall be the reference solutions for helping visual impaired and blind people during coronavirus communication crisis.
 
